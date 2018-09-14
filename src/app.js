@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Default from './components/Default'
 import 'normalize.css/normalize.css'
 import './styles/styles.scss'
 
-ReactDOM.render(<h1>This is a boilerplate app!</h1>, document.getElementById('app'))
+ReactDOM.render(<Default />, document.getElementById('app'))
