@@ -1,3 +1,3 @@
-test('default dummy test', () => {
-    console.log('dummy')
-})
+test("default dummy test", () => {
+  console.log("dummy");
+});
